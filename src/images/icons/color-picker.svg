@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>color-picker</title>
+    <g id="Symbols-library" stroke="none" stroke-width="1" >
+        <g id="Icons" transform="translate(-124.000000, -426.000000)">
+            <g id="Group" transform="translate(110.000000, 94.000000)">
+                <g transform="translate(0.000000, 318.000000)" id="color-picker">
+                    <path d="M44,0 L44,44 L0,44 L0,0 L44,0 Z M33,11 L11,11 L11,33 L33,33 L33,11 Z" id="Combined-Shape"></path>
+                    <g id="Group" transform="translate(11.000000, 11.000000)"  >
+                        <path d="M18.9792,2.9998 C13.6182,5.0288 8.2292,4.0748 5.0032,7.3008 C2.3322,9.9718 2.3322,14.3038 5.0032,16.9758 C7.6752,19.6468 12.0072,19.6468 14.6792,16.9758 C17.9042,13.7508 16.9502,8.3618 18.9792,2.9998" id="Icon"></path>
+                        <polygon id="Rectangle" points="22 18 22 22 18 22" fill="#000000"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

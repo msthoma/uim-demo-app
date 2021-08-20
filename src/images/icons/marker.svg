@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="19px" viewBox="0 0 18 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>marker</title>
+    <g id="Symbols-library" stroke="none" stroke-width="1" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-123.000000, -297.000000)">
+            <g id="Group" transform="translate(110.000000, 94.000000)">
+                <g transform="translate(0.000000, 190.000000)" id="marker">
+                    <path d="M44,0 L44,44 L0,44 L0,0 L44,0 Z M33,11 L11,11 L11,33 L33,33 L33,11 Z" id="Combined-Shape" fill-opacity="0" fill="#FFC0C0"></path>
+                    <g id="Icon" transform="translate(11.000000, 11.000000)">
+                        <path d="M6.028,11.0984 L11.129,16.2984 L4.956,20.4044 L2,17.3924 L6.028,11.0984 Z M12.4044,2.0005 L20.0554,9.7995 L13.6804,16.2985 L6.0284,8.4995 L12.4044,2.0005 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

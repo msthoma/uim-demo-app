@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pen</title>
+    <g id="Symbols-library" stroke="none" stroke-width="1" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-122.000000, -232.000000)">
+            <g id="Group" transform="translate(110.000000, 94.000000)">
+                <g transform="translate(0.000000, 126.000000)" id="pen">
+                    <path d="M44,0 L44,44 L0,44 L0,0 L44,0 Z M33,11 L11,11 L11,33 L33,33 L33,11 Z" id="Combined-Shape" fill-opacity="0" fill="#FFC0C0"></path>
+                    <g id="Icon" transform="translate(11.000000, 11.000000)">
+                        <path d="M2.3069,17.0829 L4.1449,18.9209 L3.2139,19.8529 C2.7129,20.3539 1.9019,20.3539 1.4009,19.8529 L1.3749,19.8269 C0.8749,19.3269 0.8749,18.5159 1.3749,18.0149 L2.3069,17.0829 Z M11.0377,0.9998 L20.2287,10.1908 L17.4707,12.9468 L6.3917,18.4098 L2.8177,14.8368 L8.2807,3.7568 L11.0377,0.9998 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>brush</title>
+    <g id="Symbols-library" stroke="none" stroke-width="1" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-124.000000, -362.000000)">
+            <g id="Group" transform="translate(110.000000, 94.000000)">
+                <g transform="translate(0.000000, 254.000000)" id="brush">
+                    <path d="M44,0 L44,44 L0,44 L0,0 L44,0 Z M33,11 L11,11 L11,33 L33,33 L33,11 Z" id="Combined-Shape" fill-opacity="0" fill="#FFC0C0"></path>
+                    <g id="Icon" transform="translate(11.000000, 11.000000)" >
+                        <path d="M11.6582,7.313 L14.0312,9.686 C13.9907077,14.8755231 10.9595692,16.0234911 7.31838882,17.0302843 L6.85042677,17.1583447 C6.61497221,17.222292 6.37744492,17.2863403 6.138464,17.351504 L5.65874741,17.4836191 C4.77638627,17.7296585 3.88003077,17.9997846 3.0002,18.344 C5.0342,13.146 4.4812,7.369 11.6582,7.313 L11.6582,7.313 Z M15.0807,3 L18.3437,6.262 L15.0857,8.631 L12.7127,6.258 L15.0807,3 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

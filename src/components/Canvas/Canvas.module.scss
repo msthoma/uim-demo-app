@@ -1,0 +1,11 @@
+.Canvas {
+  width: 100%;
+  height: 100%;
+}
+
+.Wrapper {
+  // 100vh minus height of toolbar
+  height: calc(100% - 3.5rem);
+  overflow: hidden;
+  position: relative;
+}

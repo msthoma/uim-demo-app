@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="8px" viewBox="0 0 14 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>chevron-up</title>
+    <g id="Symbols-library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-192.000000, -366.000000)">
+            <g id="Group" transform="translate(110.000000, 94.000000)">
+                <g transform="translate(67.000000, 254.000000)" id="chevron-up">
+                    <path d="M44,0 L44,44 L0,44 L0,0 L44,0 Z M33,11 L11,11 L11,33 L33,33 L33,11 Z" id="Combined-Shape" fill-opacity="0" fill="#FFC0C0"></path>
+                    <g id="Icon" transform="translate(11.000000, 11.000000)" fill="#000000">
+                        <path d="M9.41425,11.00025 L14.70725,5.70725 C15.09825,5.31625 15.09825,4.68425 14.70725,4.29325 C14.31625,3.90225 13.68425,3.90225 13.29325,4.29325 L7.29325,10.29325 C6.90225,10.68425 6.90225,11.31625 7.29325,11.70725 L13.29325,17.70725 C13.48825,17.90225 13.74425,18.00025 14.00025,18.00025 C14.25625,18.00025 14.51225,17.90225 14.70725,17.70725 C15.09825,17.31625 15.09825,16.68425 14.70725,16.29325 L9.41425,11.00025 Z" transform="translate(11.000250, 11.000125) rotate(-270.000000) translate(-11.000250, -11.000125) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

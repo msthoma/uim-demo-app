@@ -1,0 +1,30 @@
+.Tool {
+  fill: #000;
+  border-radius: 100%;
+  cursor: pointer;
+  width: 2.625rem;
+  height: 2.625rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0.125rem;
+  border: 1px solid transparent;
+
+  &.Selectable {
+    &.Selected,
+    &:hover {
+      border: 1px solid black;
+    }
+  }
+
+  &.Disabled {
+    fill: $color;
+    cursor: not-allowed;
+    border: none;
+
+    &.Selected,
+    &:hover {
+      border: none;
+    }
+  }
+}

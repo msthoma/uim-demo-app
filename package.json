@@ -1,0 +1,58 @@
+{
+  "name": "uim-demo-web-app",
+  "version": "0.0.1",
+  "author": "Bogdan Nikolakov",
+  "copyright.owner": "Wacom",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.21.1",
+    "digital-ink": "./wacom/digital-ink",
+    "dom-transformer": "./wacom/dom-transformer",
+    "jquery": "^3.5.1",
+    "jquery-contextmenu": "^2.9.2",
+    "node-sass": "^6.0.1",
+    "protobufjs": "^6.11.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "analyze": "source-map-explorer 'build/static/js/*.js'",
+    "start": "react-app-rewired start -host 0.0.0.0",
+    "build": "react-app-rewired build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@yeutech-lab/react-app-rewire-define-plugin": "^1.0.0",
+    "prettier": "^2.3.2",
+    "react-app-rewire-provide-plugin": "^1.0.0",
+    "react-app-rewired": "^2.1.8"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
