@@ -4,7 +4,6 @@ import InkCanvas from './InkCanvas';
 import Lens from './Lens';
 import layout from './layout/Layout';
 import SelectionVector from './selection/SelectionVector';
-import { config } from './Config';
 
 class InkCanvasVector extends InkCanvas {
   constructor(canvas, width, height, app) {
@@ -25,8 +24,6 @@ class InkCanvasVector extends InkCanvas {
       refresh: transform => {
         this.canvas.clear();
         this.canvas.blend(this.originLayer, { transform });
-
-        layout.updatePaper(transform);
       },
       redraw: utils.debounce(transform => {
         this.preventOriginRedraw = true;

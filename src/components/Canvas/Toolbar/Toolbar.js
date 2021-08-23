@@ -41,8 +41,8 @@ const Toolbar = () => {
 
     const bytes = await WILL.encode();
     console.log('Ink content encoded as UIM  v3.1.0.');
-    const url = 'http://uim-demo-backend.herokuapp.com/process';
-    //const url = 'http://localhost:8000/process';
+    //const url = 'http://uim-demo-backend.herokuapp.com/process';
+    const url = 'http://localhost:8000/process';
     // Additional parameters for the service need to be added here:
     var formdata = new FormData();
     formdata.append('uim_file', new Blob([bytes]), 'ink.uim');
