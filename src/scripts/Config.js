@@ -4,8 +4,7 @@ import {
   Selector,
   PathPointContext,
   BlendMode,
-	PipelineStage,
-	Brush2D,
+	PipelineStage
 } from 'digital-ink';
 
 import BrushPalette from './BrushPalette';
