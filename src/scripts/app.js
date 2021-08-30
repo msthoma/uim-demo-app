@@ -22,6 +22,7 @@ class DigitalInkApp {
 
       let width = wrapper.offsetWidth;
       let height = wrapper.offsetHeight;
+      console.log(`width: ${width}, height: ${height}`);
       let color = layout.extractColor($('nav #change_color')[0]);
 
       let toolID = 'pen';
