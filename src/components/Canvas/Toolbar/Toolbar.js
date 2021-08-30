@@ -110,8 +110,6 @@ const Toolbar = () => {
     console.log('Ink content encoded as UIM  v3.1.0.');
     
     const url = 'https://uim-backend-ssda.herokuapp.com/process';
-    // const url = 'http://localhost:8000/process';
-    // const url = 'http://0.0.0.0:8000/process';
 
     // Additional parameters for the service need to be added here:
     var formdata = new FormData();
